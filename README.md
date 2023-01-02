@@ -25,6 +25,10 @@ Create the SQLite database
 ```shell
 $ python xblock-sdk/manage.py migrate
 ```
+Create a var directory if it's not exist
+```shell
+$ mkdir "var"
+```
 
 Run the XBlock SDK Server
 ```shell
