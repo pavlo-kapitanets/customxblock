@@ -36,4 +36,4 @@ $ python xblock-sdk/manage.py runserver
 ```
 
 ### SimpleXblock screenshot
-![img.png](img.png)
+![img_1.png](img_1.png)
